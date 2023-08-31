@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=VDD Pin=U4-13
+Added Member To Class: ClassName=KamiGen2 Member=Component U3 AD8544ARZ

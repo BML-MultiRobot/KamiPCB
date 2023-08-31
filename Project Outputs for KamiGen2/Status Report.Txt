@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [KamiGen2.PcbDoc]
+   Generated File[Pick Place for KamiGen2.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:00:30 PM On 8/30/2023

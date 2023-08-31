@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetR9_1 Pin=U3-1
+Removed Pin From Net: NetName=NetR9_1 Pin=U3-2
+Removed Pin From Net: NetName=NetR3_2 Pin=U3-3
+Removed Pin From Net: NetName=NetR4_2 Pin=U3-5
+Removed Pin From Net: NetName=NetR10_1 Pin=U3-6
+Removed Pin From Net: NetName=NetR10_1 Pin=U3-7
+Added Pin To Net: NetName=NetR10_1 Pin=U3-1
+Added Pin To Net: NetName=NetR10_1 Pin=U3-2
+Added Pin To Net: NetName=NetR4_2 Pin=U3-3
+Added Pin To Net: NetName=NetR3_2 Pin=U3-5
+Added Pin To Net: NetName=NetR9_1 Pin=U3-6
+Added Pin To Net: NetName=NetR9_1 Pin=U3-7
+Added Member To Class: ClassName=KamiGen2 Member=Component J1 S2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=KamiGen2 Member=Component J3 S2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=KamiGen2 Member=Component SW1 JS102000SAQN

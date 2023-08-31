@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VDD Pin=U4-13
+Added Pin To Net: NetName=PGND Pin=U3-11
+Added Pin To Net: NetName=3V3 Pin=U4-13
+Added Member To Class: ClassName=KamiGen2 Member=Component C8 C1206C104K3RACTU
+Added Member To Class: ClassName=KamiGen2 Member=Component C9 C1206C104K3RACTU
+Added Member To Class: ClassName=KamiGen2 Member=Component R7 RC0805FR-07100KL
+Added Member To Class: ClassName=KamiGen2 Member=Component R8 RC0805FR-07100KL
+Added Member To Class: ClassName=KamiGen2 Member=Component R10 ERA-6YEB101V
+Added Member To Class: ClassName=KamiGen2 Member=Component R11 ERA-6YEB101V
+Added Member To Class: ClassName=KamiGen2 Member=Component R12 ERJ-14NF1001U
+Added Member To Class: ClassName=KamiGen2 Member=Component R13 ERJ-14NF1001U
